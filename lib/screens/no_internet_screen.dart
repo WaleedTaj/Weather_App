@@ -95,7 +95,7 @@ class NoInternetScreen extends StatelessWidget {
                       ),
                       backgroundColor: Colors.orangeAccent,
                       padding: EdgeInsets.symmetric(
-                        vertical: height * 0.0151,
+                        vertical: height * 0.015,
                         horizontal: width * 0.07,
                       ),
                       shape: RoundedRectangleBorder(
