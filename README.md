@@ -1,16 +1,39 @@
-# weather_app
+# **Weather App**  
 
-A new Flutter project.
+## **Overview**  
+A **Flutter-based Weather App** that fetches real-time weather data for your **current location** or a **searched city**. It displays temperature, humidity, airspeed, pressure, and visibility while handling errors like **invalid searches** and **no internet connection**.
 
-## Getting Started
+## **📱 Features**  
 
-This project is a starting point for a Flutter application.
+- **Real-time Weather**: Fetches data for **current location** or **searched city**.  
+- **Detailed Info**: Displays **temperature, humidity, airspeed, pressure, and visibility**.  
+- **Search Functionality**: Allows searching for a city’s weather.  
+- **Error Handling**: Handles **invalid searches** and **no internet** with appropriate messages.  
+- **Smooth UI**: Scrollable interface for an enhanced experience.  
 
-A few resources to get you started if this is your first Flutter project:
+## **📸 Screenshots**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%201.jpeg" width="200" style="margin-right: 20px;"/>  
+<img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%202.jpeg" width="200"/>  
+<img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%203.jpeg" width="200"/>  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **🚀 Getting Started**  
+
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/WaleedTaj/Weather_App.git
+   ```
+2. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App**:
+   ```bash
+   flutter run
+
+## 🛠️ Built With
+
+- **Flutter**: UI toolkit for building natively compiled applications.
+- **Dart**: Programming language optimized for building mobile apps.
+
+---
