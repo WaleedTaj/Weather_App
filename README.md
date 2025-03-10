@@ -15,7 +15,7 @@ A **Flutter-based Weather App** that fetches real-time weather data for your **c
 
 <img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%201.jpeg" width="200" style="margin-right: 20px;"/>  
 <img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%202.jpeg" width="200"/>  
-<img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%203.jpeg" width="200"/>  
+<img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%203.jpeg" width="200"/>  <img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%204.jpeg" width="200"/>  <img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%205.jpeg" width="200"/>  <img src="https://github.com/WaleedTaj/Weather_App/blob/main/images/Screenshot%206.jpeg" width="200"/>
 
 ## **🚀 Getting Started**  
 
